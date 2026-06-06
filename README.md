@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="assets/logo.png" alt="NordQuant Logo" width="180"/>
 
 # Welcome to NordQuant
 
